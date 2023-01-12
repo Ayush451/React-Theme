@@ -22,6 +22,7 @@ function App() {
             <input type='Password' placeholder="Enter your Password"/>
             <div className="remember">
               <input type='checkbox' checked='checked'/>
+              
               <p>Remeber Me</p>
             </div>
             <button>Log In</button>
