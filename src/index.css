@@ -2,8 +2,8 @@
 :root {
   --background: #ffffff;
   --text-primary: #000;
-  --text-secondary: #8e05c2;
-  --accent: #8e05c2;
+  --text-secondary: #b20101;
+  --accent: #b20101;
   --border: #333;
   --form-bg: #fff;
 }
@@ -11,8 +11,8 @@
 [data-theme='dark'] {
   --background: #000;
   --text-primary: #fff;
-  --text-secondary: #8e05c2;
-  --accent: #8e05c2;
+  --text-secondary: #b20101;
+  --accent: #b20101;
   --border: #808080;
   --form-bg: #191919;
 }
